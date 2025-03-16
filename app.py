@@ -1,7 +1,7 @@
 import pandas as pd
-import numpy as np
+import numpy as np 
 import matplotlib.pyplot as plt
-
+#
 # Реальные средние температуры (примерные данные) для городов по сезонам
 seasonal_temperatures = {
     "New York": {"winter": 0, "spring": 10, "summer": 25, "autumn": 15},
